@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Speed-O-Meter/static/css/main.b4f54842.chunk.css",
+    "main.js": "/Speed-O-Meter/static/js/main.7481cf9f.chunk.js",
+    "main.js.map": "/Speed-O-Meter/static/js/main.7481cf9f.chunk.js.map",
+    "runtime-main.js": "/Speed-O-Meter/static/js/runtime-main.8d01156c.js",
+    "runtime-main.js.map": "/Speed-O-Meter/static/js/runtime-main.8d01156c.js.map",
+    "static/js/2.eb985710.chunk.js": "/Speed-O-Meter/static/js/2.eb985710.chunk.js",
+    "static/js/2.eb985710.chunk.js.map": "/Speed-O-Meter/static/js/2.eb985710.chunk.js.map",
+    "index.html": "/Speed-O-Meter/index.html",
+    "static/css/main.b4f54842.chunk.css.map": "/Speed-O-Meter/static/css/main.b4f54842.chunk.css.map",
+    "static/js/2.eb985710.chunk.js.LICENSE.txt": "/Speed-O-Meter/static/js/2.eb985710.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d01156c.js",
+    "static/js/2.eb985710.chunk.js",
+    "static/css/main.b4f54842.chunk.css",
+    "static/js/main.7481cf9f.chunk.js"
+  ]
+}
