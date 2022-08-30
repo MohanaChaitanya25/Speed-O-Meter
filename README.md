@@ -32,7 +32,7 @@
 <details>
 <summary>Image URLs</summary>
 
-- [https://assets.ccbp.in/frontend/react-js/speedometer-img.png](https://assets.ccbp.in/frontend/react-js/speedometer-img.png) alt should be **speedometer**
+- [https://assets.ccbp.in/frontend/react-js/speedometer-img.png](https://assets.ccbp.in/frontend/react-js/speedometer-img.png)
 
 </details>
 
